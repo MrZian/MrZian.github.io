@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","Gerstner_2012_2D-pixel","Inglis_2012_2D-pixel","Kaplan_2000_stylized","Lake_2000_stylized","Lansdown_1995_stylized","Lee_2006_stylized","Lei_2023_2D-pixel","Marvie_2011_pipeline","Milefe_2022_GPU-Render","Recorda_2024_Polyx"]});
